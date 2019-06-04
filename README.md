@@ -2,12 +2,12 @@ Python Project Night- flask problem
 
 1. What is this challenge?
 
-You have to present exchange rate accessing api and using Flask.
+You have to present an exchange rate accessing api and using Flask.
 
 2. Project Objective
 
-Our built a small app in 40 minutes in order to improve our coding skill.
+Our team built a small app in 40 minutes.
 
 3. Languages we used here:
-
+Python
 Flask
